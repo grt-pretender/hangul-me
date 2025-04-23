@@ -1,2 +1,2 @@
-# learn-thai
-CLI-tool for memorizing Thai alphabet
+# kana-me
+Tool for memorizing Japanese Hiragana/Katakana
