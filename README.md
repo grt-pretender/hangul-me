@@ -1,2 +1,2 @@
-# hangul-me
-Tool for memorizing Korean alphabet system
+# kana-me
+Tool for memorizing Japanese Hiragana & Katakana
